@@ -1,0 +1,14 @@
+Irodalom:
+https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html (hivatalos dokumentáció)
+
+http://hacktalks.blogspot.com/2013/08/gcc-instrument-functions.html
+https://mcuoneclipse.com/2015/04/04/poor-mans-trace-free-of-charge-function-entryexit-trace-with-gnu-tools/
+https://linuxgazette.net/151/melinte.html
+https://en.wikipedia.org/wiki/Call_graph
+https://github.com/vincedani/instrumenPro
+https://balau82.wordpress.com/2010/10/06/trace-and-profile-function-calls-with-gcc/
+http://www.synthworks.com/blog/2013/04/20/why-you-need-functional-coverage
+https://www.froglogic.com/coco/function-coverage/
+https://www.froglogic.com/coco/call-coverage-metric/
+https://www.atlassian.com/continuous-delivery/software-testing/code-coverage
+https://coding.abel.nu/2014/07/code-coverage-functional-coverage/
